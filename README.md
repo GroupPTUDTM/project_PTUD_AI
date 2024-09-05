@@ -9,7 +9,7 @@
 ---
 
 ### Sử dụng
-- .Net Framework version 4.8
+- .Net Framework version 4.7.2
 - Visual Studio 2019
 
 ---
