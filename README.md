@@ -10,7 +10,7 @@
 
 ### Sử dụng
 - .Net Framework version 4.8
-- Visual Studio 2022
+- Visual Studio 2019
 
 ---
 
