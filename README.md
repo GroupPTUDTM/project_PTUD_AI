@@ -50,7 +50,7 @@ Người dùng có thể truy cập vào hệ thống thông qua trình duyệt 
 | 4   | Quản lý thông tin tài khoản [Thông tin khách hàng, thông tin tài khoản, lịch sử mua hàng, sản phẩm yêu thích] |       |
 | 5   | Mua hàng |       |
 | 6   | Thanh toán |       |
-| 7   | Đánh giá sản phẩm |    Thịnh   |
+| 7   | Đánh giá sản phẩm |    .   |
 
 ### App: Winform
 
@@ -58,13 +58,13 @@ Người dùng có thể truy cập vào hệ thống thông qua trình duyệt 
 |-----|-----------|-----------|
 | 1   | Đăng nhập/đăng xuất |       |
 | 2   | Phân quyền |       |
-| 3   | Quản lý nhân viên + chức vụ |  |
+| 3   | Quản lý nhân viên  |  |
 | 4   | Quản lý sản phẩm + thương hiệu + AI |  |
 | 5   | Quản lý khách hàng |  |
 | 6   | Quản lý tin tức |  |
 | 7   | Thống kê |  |
-| 8   | Báo cáo |  |
-| 9   | Duyệt tin tức | Sơn |
+| 8   | Báo cáo |.  |
+
 
 ---
 
