@@ -1,0 +1,10 @@
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\bin\Debug\Module_LogIn.dll
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\bin\Debug\Module_LogIn.pdb
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\bin\Debug\Guna.UI2.dll
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.csproj.CoreCompileInputs.cache
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.csproj.CopyComplete
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.dll
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.pdb
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.control_LogIn.resources
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.Properties.Resources.resources
+D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.csproj.GenerateResource.cache
