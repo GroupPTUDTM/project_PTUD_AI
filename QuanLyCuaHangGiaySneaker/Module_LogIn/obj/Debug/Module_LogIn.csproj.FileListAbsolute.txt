@@ -8,3 +8,14 @@ D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debu
 D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.control_LogIn.resources
 D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.Properties.Resources.resources
 D:\GitDesktop\Manage_Shoe_Sneaker\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.csproj.GenerateResource.cache
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\bin\Debug\Module_LogIn.dll
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\bin\Debug\Module_LogIn.pdb
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\bin\Debug\Guna.UI2.dll
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.csproj.AssemblyReference.cache
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.control_LogIn.resources
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.Properties.Resources.resources
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.csproj.GenerateResource.cache
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.csproj.CoreCompileInputs.cache
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.csproj.CopyComplete
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.dll
+D:\CHITO\Do_an_tot_nghiep\project_PTUD_AI\QuanLyCuaHangGiaySneaker\Module_LogIn\obj\Debug\Module_LogIn.pdb
